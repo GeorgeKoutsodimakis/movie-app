@@ -1,4 +1,5 @@
 moviesApp
+
 Simple Ionic app with the use of tmdb api.
 
 To run navigate in cmd to app's root folder and type
